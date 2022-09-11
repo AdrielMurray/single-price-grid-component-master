@@ -16,13 +16,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./single-price-grid-component.png)
+![](./images/single-price-grid-component.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/AdrielMurray/single-price-grid-component-master)
+- Live Site URL: [Click Here](https://adrielmurray.github.io/single-price-grid-component-master/)
 
 ## My process
 
